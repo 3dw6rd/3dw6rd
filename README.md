@@ -1,10 +1,10 @@
-<p align="left"><b><samp>「</samp></b></p>
+<p align="left"><b><samp> {</samp></b></p>
   <p align="center">
     <samp>
       Man is a political animal.
     </samp>
   </p>
-<p align="right"><b><samp>」</samp></b></p>
+<p align="right"><b><samp>} </samp></b></p>
 
 <br>
 
